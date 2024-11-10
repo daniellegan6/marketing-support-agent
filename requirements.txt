@@ -1,0 +1,9 @@
+langgraph
+# # langgraph-checkpoint-sqlite
+langsmith
+langchain-community
+langchain-core
+langchain-openai
+# notebook
+tavily-python
+ipykernel
